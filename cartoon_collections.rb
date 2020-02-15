@@ -22,6 +22,7 @@ def summon_captain_planet(array)
   newarray << array[i].map(&:capitalize).join("! ")
   
   i = i + 1
+end
   newarray
 end
 
