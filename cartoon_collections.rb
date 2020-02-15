@@ -7,6 +7,14 @@ def roll_call_dwarves(array)
   end
 end
 
+# i didnt want to use the each with index methode because there is really no need but 
+# it'll go something like this array.each_with_index |dwarf, index| than puts out the 2
+#variables 
+
+
+
+
+
 def summon_captain_planet# code an argument here
   # Your code here
   
