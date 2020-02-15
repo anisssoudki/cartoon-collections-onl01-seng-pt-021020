@@ -16,6 +16,7 @@ end
 
 
 def summon_captain_planet(array)
+  newarray = []
    array.map(&:capitalize).join("! ") 
 end
 
